@@ -1,6 +1,6 @@
 # batscript
 
-![banner_thin](https://user-images.githubusercontent.com/6749212/168450764-5ae486d8-8299-4425-b51d-cf3b9538efb2.png)
+<!-- ![banner_thin](https://user-images.githubusercontent.com/6749212/168450764-5ae486d8-8299-4425-b51d-cf3b9538efb2.png)
 
 
 
@@ -14,7 +14,7 @@
 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/asankar96?style=social)](https://twitter.com/asankar96)
-[![GitHub followers](https://img.shields.io/github/followers/aadhithya?style=social)](https://github.com/aadhithya)
+[![GitHub followers](https://img.shields.io/github/followers/aadhithya?style=social)](https://github.com/aadhithya) -->
 
 
 BatScript is a programming language based on the dialogues of Batman Triology. This is just a hobby project and is not meant to be used for serious software development.
