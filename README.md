@@ -4,12 +4,17 @@ BatScript is a programming language based on the dialogues of Batman Triology. T
 
 ## Installation
 - batscript requires **python >= 3.8**. Install python from [here](https://www.python.org/downloads/).
-- Install the batscript interpreter using the following command:
-  <!-- `pip install batscript`- test installation: `batscript version` -->
+- Install poetry and then install the dependencies as folows:
+```
+pip install poetry
+poetry install
+```
+<!-- - Install the batscript interpreter using the following command:
+  `pip install batscript`- test installation: `batscript version` -->
 
 ## Getting started
 
-batscript is not a feature rich language and is not intended for serious use. It is rather a hobby project and a tribute to the one and only superstar.
+BatScript is not a feature rich language and is not intended for serious use. It is rather a hobby project.
 
 ### Run programs
 `hello_world.bts`:
@@ -22,9 +27,9 @@ SOME MEN JUST WANT TO WATCH THE WORLD BURN
 
   `python -m batscript run examples/hello_world.bts`
 
-will result in the following output:
+<!--will result in the following output:
 
-<!-- ![hello world output](./imgs/hello-out.png) -->
+![hello world output](./imgs/hello-out.png) -->
 
 ## Acknowledgements
 - This project is inspired by the [ArnoldC](https://github.com/lhartikk/ArnoldC) project and [Rajini++](https://github.com/aadhithya/rajiniPP.git) project.
