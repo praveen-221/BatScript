@@ -125,7 +125,6 @@ venv.bak/
 .dmypy.json
 dmypy.json
 
-hello.rpp
 test-programs
 .kanbn
 docs
