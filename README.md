@@ -47,7 +47,7 @@ will result in the following output:
 <!-- - A lot of learnings from [DIVSPL](https://github.com/di/divspl) and its accompanying [pycon talk](https://www.youtube.com/watch?v=ApgUrtCrmV8).
 - A lot of learnings from [this pycon talk](https://www.youtube.com/watch?v=LCslqgM48D4&t=1388s) by [Alex Gaynor](alex).
 - Workflows setup based on [poetry_pypi_template](https://github.com/a-parida12/poetry_pypi_template). -->
-- This project is inspired by the [Rajini++](https://github.com/aadhithya/rajiniPP.git) project.
+- This project is inspired by the [ArnoldC](https://github.com/lhartikk/ArnoldC) project and [Rajini++](https://github.com/aadhithya/rajiniPP.git) project.
 
 ## Roadmap
 ### batscript Features
