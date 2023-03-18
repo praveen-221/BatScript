@@ -1,4 +1,4 @@
-# batscript
+# BatScript
 
 <!-- ![banner_thin](https://user-images.githubusercontent.com/6749212/168450764-5ae486d8-8299-4425-b51d-cf3b9538efb2.png)
 
